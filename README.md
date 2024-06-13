@@ -13,3 +13,12 @@ Pada bagian ini, rancangan solusi menjelaskan tentang tahapan terkait proses dan
 
 2. Tampilan Dashboard Ringkasan Sentimen
 ![Tampilan Dashboard Ringkasan Sentimen](./dashboard-ringkasan-sentimen.png)
+
+By Group Widyaraja
+Group Member:
+1. Kameliya Putri [9297067/Universitas Udayana]
+2. Ngurah Kelvin Febryanta Lila Ananda[8952102/Universitas Udayana]
+3. Angga Firmansyah [8447503/Universitas Teknologi Digital Indonesia]
+4. Alif Tegar Habonaran Purba [9284924/Telkom University]
+
+
